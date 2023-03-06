@@ -8,6 +8,6 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 
 The UI allows a user to input the sender, receiver, and amount of a transaction and add as a new block. The blockchain can then be validated. 
 
-![The UI](../Instructions/Images/blockchain_ui.png)
+![The UI](../Instructions/Images/streamlit_output.png)
 
 ![The terminal Output](../Instructions/Images/terminal_output.png)

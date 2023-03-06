@@ -52,9 +52,9 @@ import hashlib
 @dataclass
 class Record:
 
-    sender = str
-    receiver = str
-    amount = float
+    sender: str
+    receiver: str
+    amount: float
 
 
 ################################################################################
